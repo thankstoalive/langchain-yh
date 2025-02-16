@@ -16,7 +16,7 @@ conda create --name langchain-yh python=3.11
 pip install python-dotenv
 ```
 
-- 환경 변수를 관리를 위해 `.env` 파일을 생성하고 API 키 등을 정장합니다.
+- 환경 변수를 관리를 위해 `.env` 파일을 생성하고 API 키 등을 저장합니다.
 
 ### 3. 테디노트의 requirments 파일로 패키지 설치
 테디노트가 정리한 패키지 목록을 사용하여 추가 패키지를 설치합니다.
