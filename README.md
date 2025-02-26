@@ -24,3 +24,5 @@ pip install python-dotenv
 ```sh
 !pip install -r https://raw.githubusercontent.com/teddylee777/langchain-kr/main/requirements.txt
 ```
+
+테스트
